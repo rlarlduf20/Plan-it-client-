@@ -1,0 +1,26 @@
+.main-body {
+  position: relative;
+  height: 450px;
+  margin-top: 80px;
+  /* background-color: rgb(210, 211, 250); */
+  /* width: 5000px; */
+  overflow-x: hidden;
+}
+.today-date {
+  position: absolute;
+  color: #828282;
+  margin: 180px 0 0 50px;
+  font-size: 30px
+}
+.container {
+  /* position: absolute; */
+  white-space: nowrap;
+}
+.container .mon {
+  margin: 10px;
+  width: 450px;
+  display: -webkit-inline-box;
+}
+.container .mon:first-child {
+  margin-left: 300px;
+}

@@ -1,0 +1,15 @@
+.main_text {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  color: lightsteelblue;
+  display: block;
+  position: absolute;
+  margin: 100px 0 0 650px;
+}
+
+.main_image {
+  display: block;
+  margin:200px 0 0 500px ;
+  position: absolute;
+}
